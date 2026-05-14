@@ -35,5 +35,3 @@ class AcPintar extends PerangkatPintar {
         System.out.println("Suhu ruangan diatur menjadi " + suhu + " derajat.");
     }
 }
-
-// Kelas Utama
